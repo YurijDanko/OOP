@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\Данько С++\OOP\Debug\OOP.exe
+C:\Users\Admin\Desktop\Данько С++\OOP\Debug\OOP.pdb
